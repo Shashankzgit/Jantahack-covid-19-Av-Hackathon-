@@ -1,0 +1,2 @@
+# Jantahack-covid-19-Av-Hackathon-
+The following project was carried out to predict the stay period for covid-19 patients wrt to various hospital data being collected, including the information related to hospital facility, hospital region, patient region etc,  following project was the part of national level hackathon conducted by 'analytics vidhya' and the rank came out to be 219 with model score of 42.31
